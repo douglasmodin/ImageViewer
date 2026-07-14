@@ -1,0 +1,6 @@
+*.exe
+*.pdb
+*.xcf
+*.ppm
+images/*
+build.bat

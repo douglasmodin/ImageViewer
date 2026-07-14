@@ -1,6 +1,6 @@
 # Modin's Image viewer
 
-** Image Viewer, and Image Loading Library in Zig. **
+**Image Viewer, and Image Loading Library in Zig.**
 
 ## Why
 
